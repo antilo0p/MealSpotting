@@ -22,7 +22,7 @@ public class MealSpottingApplication extends Application {
 		/*
 		 * Fill in this section with your Parse credentials
 		 */
-		Parse.initialize(this, "YOUR_APP_ID", "YOUR_CLIENT_KEY");
+		Parse.initialize(this, "84x6Q8aWMJt2kmxwY45QoKsYFNZNEhbKGuBjOG9L", "je7jOBZy5GeKQ6s2BaTm8S1KyH5MsE4h86tagkcb");
 
 		/*
 		 * This app lets an anonymous user create and save photos of meals
